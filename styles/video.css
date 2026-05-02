@@ -15,7 +15,7 @@
   line-height: 20px;
 }
 
-.video-title-link{
+.video-title-link, .channel-title-link{
   text-decoration: none;
   color: black;
 }
